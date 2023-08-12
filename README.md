@@ -1,70 +1,23 @@
 # Odin Recipes
 
-Welcome to Odin Recipes, your gateway to delectable dishes inspired by the Norse mythology! Unleash your inner Viking in the kitchen and prepare these hearty meals fit for gods and warriors.
+This repository contains a collection of recipes that I have created while learning web development with The Odin Project. The recipes are all plant-based and easy to follow.
 
-## Table of Contents
+## Recipes
 
-1. [Mjölnir Meatballs](#mjölnir-meatballs)
-2. [Valkyrie Veggie Stew](#valkyrie-veggie-stew)
-3. [Bifröst Berry Parfait](#bifröst-berry-parfait)
+* [Vegan Chocolate Chip Cookies](recipes/vegan-chocolate-chip-cookies.md)
+* [Roasted Vegetable Salad](recipes/roasted-vegetable-salad.md)
+* [Lentil Soup](recipes/lentil-soup.md)
+* [Pasta with Marinara Sauce](recipes/pasta-with-marinara-sauce.md)
+* [Tofu Scramble](recipes/tofu-scramble.md)
 
-## Mjölnir Meatballs
+## How to use
 
-![Mjölnir Meatballs](images/meatballs.jpg)
+To use this repository, you can clone it to your local machine and then open the `recipes` directory. Each recipe is a separate Markdown file that contains the ingredients, instructions, and a picture of the finished dish.
 
-*For those who seek strength like Thor!*
+## Contributing
 
-**Ingredients:**
-- 1 lb ground meat (beef, pork, or a mix)
-- 1 onion, finely chopped
-- 1/2 cup breadcrumbs
-- 2 cloves garlic, minced
-- 1 egg
-- Salt and pepper to taste
-- Odin's favorite herbs and spices
+If you have a recipe that you would like to add to this repository, please feel free to create a pull request. I would love to see your recipes!
 
-**Instructions:**
-1. Mix all ingredients in a bowl.
-2. Shape into small meatballs, channeling the power of Mjölnir.
-3. Cook until golden and cooked through.
-4. Serve with a side of Viking dipping sauce.
+## Contact
 
-## Valkyrie Veggie Stew
-
-![Valkyrie Veggie Stew](images/stew.jpg)
-
-*For a nourishing feast worthy of valiant warriors!*
-
-**Ingredients:**
-- Assorted root vegetables, chopped
-- Onions and leeks, sliced
-- Hearty herbs like thyme and rosemary
-- Beef or vegetable broth
-- Meat or meat substitutes for added strength
-
-**Instructions:**
-1. Sauté onions and leeks in a large pot.
-2. Add root vegetables and herbs, invoking the spirit of the Valkyries.
-3. Pour in broth and simmer until vegetables are tender.
-4. Serve hot in wooden bowls, celebrating the warriors of Valhalla.
-
-## Bifröst Berry Parfait
-
-![Bifröst Berry Parfait](images/parfait.jpg)
-
-*For a colorful treat that bridges worlds!*
-
-**Ingredients:**
-- Fresh mixed berries (strawberries, blueberries, raspberries)
-- Creamy yogurt or skyr
-- Honey from the golden bees of Asgard
-- Crunchy granola for added texture
-
-**Instructions:**
-1. Layer yogurt, berries, and granola in a glass, creating a rainbow connection.
-2. Drizzle with honey, capturing the essence of the Bifröst bridge.
-3. Enjoy the sweet taste of the realms while gazing upon the stars.
-
----
-
-Embrace the flavors of the Norse pantheon with these Odin-approved recipes. May your culinary creations be as legendary as the gods themselves! Skål!
+If you have any questions or suggestions, please feel free to contact me at [your email address].
