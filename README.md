@@ -4,11 +4,9 @@ This repository contains a collection of recipes that I have created while learn
 
 ## Recipes
 
-* [Vegan Chocolate Chip Cookies](recipes/vegan-chocolate-chip-cookies.md)
-* [Roasted Vegetable Salad](recipes/roasted-vegetable-salad.md)
-* [Lentil Soup](recipes/lentil-soup.md)
-* [Pasta with Marinara Sauce](recipes/pasta-with-marinara-sauce.md)
-* [Tofu Scramble](recipes/tofu-scramble.md)
+* [Lasagna]
+* [Lasagna]
+* [Lasagna]
 
 ## How to use
 
