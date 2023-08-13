@@ -4,9 +4,9 @@ This repository contains a collection of recipes that I have created while learn
 
 ## Recipes
 
-* [Lasagna]
-* [Lasagna]
-* [Lasagna]
+* [Lasagna](https://joshua-estallo.github.io/odin-recipes/recipes/lasagna.html)
+* [Lasagna](https://joshua-estallo.github.io/odin-recipes/recipes/lasagna.html)
+* [Lasagna](https://joshua-estallo.github.io/odin-recipes/recipes/lasagna.html)
 
 ## How to use
 
